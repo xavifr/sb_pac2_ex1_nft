@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Gol Sud Nike2 Graderia Superior F1 S1",
       "description": "Seient 1 a la fila 1 de la Graderia Superior del Gol Sud",
-      "image": "golsud_2agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/golsud_2agraderia.jpg",
       "data": {
         "access": 18,
         "porta": 39,
@@ -17,7 +17,7 @@
       "id": 1,
       "name": "Gol Sud Nike2 Graderia Superior F1 S2",
       "description": "Seient 2 a la fila 1 de la Graderia Superior del Gol Sud",
-      "image": "golsud_2agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/golsud_2agraderia.jpg",
       "data": {
         "access": 18,
         "porta": 39,
@@ -30,7 +30,7 @@
       "id": 2,
       "name": "Gol Sud Nike2 Graderia Superior F1 S3",
       "description": "Seient 3 a la fila 1 de la Graderia Superior del Gol Sud",
-      "image": "golsud_2agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/golsud_2agraderia.jpg",
       "data": {
         "access": 18,
         "porta": 39,
@@ -43,7 +43,7 @@
       "id": 3,
       "name": "Gol Sud Nike2 Graderia Superior F1 S4",
       "description": "Seient 4 a la fila 1 de la Graderia Superior del Gol Sud",
-      "image": "golsud_2agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/golsud_2agraderia.jpg",
       "data": {
         "access": 18,
         "porta": 39,
@@ -56,7 +56,7 @@
       "id": 4,
       "name": "Gol Sud Nike2 Graderia Superior F1 S5",
       "description": "Seient 5 a la fila 1 de la Graderia Superior del Gol Sud",
-      "image": "golsud_2agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/golsud_2agraderia.jpg",
       "data": {
         "access": 18,
         "porta": 39,
@@ -69,7 +69,7 @@
       "id": 5,
       "name": "Tribuna Primera Graderia F10 S1",
       "description": "Seient 1 a la fila 10 de la Primera Graderia de Tribuna",
-      "image": "tribuna_1agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/tribuna_1agraderia.jpeg",
       "data": {
         "access": 5,
         "porta": 4,
@@ -82,7 +82,7 @@
       "id": 6,
       "name": "Tribuna Primera Graderia F10 S2",
       "description": "Seient 2 a la fila 10 de la Primera Graderia de Tribuna",
-      "image": "tribuna_1agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/tribuna_1agraderia.jpeg",
       "data": {
         "access": 5,
         "porta": 4,
@@ -95,7 +95,7 @@
       "id": 6,
       "name": "Tribuna Primera Graderia F10 S3",
       "description": "Seient 3 a la fila 10 de la Primera Graderia de Tribuna",
-      "image": "tribuna_1agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/tribuna_1agraderia.jpeg",
       "data": {
         "access": 5,
         "porta": 4,
@@ -108,7 +108,7 @@
       "id": 7,
       "name": "Tribuna Primera Graderia F10 S1",
       "description": "Seient 4 a la fila 10 de la Primera Graderia de Tribuna",
-      "image": "tribuna_1agraderia.jpg",
+      "image": "https://raw.githubusercontent.com/xavifr/sb_pac2_ex1_nft/main/tribuna_1agraderia.jpeg",
       "data": {
         "access": 5,
         "porta": 4,
