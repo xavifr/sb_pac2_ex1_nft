@@ -1,0 +1,121 @@
+{
+  "camp9_2122": [
+    {
+      "id": 0,
+      "name": "Gol Sud Nike2 Graderia Superior F1 S1",
+      "description": "Seient 1 a la fila 1 de la Graderia Superior del Gol Sud",
+      "image": "golsud_2agraderia.jpg",
+      "data": {
+        "access": 18,
+        "porta": 39,
+        "boca": 318,
+        "fila": 1,
+        "seient": 1
+      }
+    },
+    {
+      "id": 1,
+      "name": "Gol Sud Nike2 Graderia Superior F1 S2",
+      "description": "Seient 2 a la fila 1 de la Graderia Superior del Gol Sud",
+      "image": "golsud_2agraderia.jpg",
+      "data": {
+        "access": 18,
+        "porta": 39,
+        "boca": 318,
+        "fila": 1,
+        "seient": 2
+      }
+    },
+    {
+      "id": 2,
+      "name": "Gol Sud Nike2 Graderia Superior F1 S3",
+      "description": "Seient 3 a la fila 1 de la Graderia Superior del Gol Sud",
+      "image": "golsud_2agraderia.jpg",
+      "data": {
+        "access": 18,
+        "porta": 39,
+        "boca": 318,
+        "fila": 1,
+        "seient": 3
+      }
+    },
+    {
+      "id": 3,
+      "name": "Gol Sud Nike2 Graderia Superior F1 S4",
+      "description": "Seient 4 a la fila 1 de la Graderia Superior del Gol Sud",
+      "image": "golsud_2agraderia.jpg",
+      "data": {
+        "access": 18,
+        "porta": 39,
+        "boca": 318,
+        "fila": 1,
+        "seient": 4
+      }
+    },
+    {
+      "id": 4,
+      "name": "Gol Sud Nike2 Graderia Superior F1 S5",
+      "description": "Seient 5 a la fila 1 de la Graderia Superior del Gol Sud",
+      "image": "golsud_2agraderia.jpg",
+      "data": {
+        "access": 18,
+        "porta": 39,
+        "boca": 318,
+        "fila": 1,
+        "seient": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Tribuna Primera Graderia F10 S1",
+      "description": "Seient 1 a la fila 10 de la Primera Graderia de Tribuna",
+      "image": "tribuna_1agraderia.jpg",
+      "data": {
+        "access": 5,
+        "porta": 4,
+        "boca": 101,
+        "fila": 10,
+        "seient": 1
+      }
+    },
+    {
+      "id": 6,
+      "name": "Tribuna Primera Graderia F10 S2",
+      "description": "Seient 2 a la fila 10 de la Primera Graderia de Tribuna",
+      "image": "tribuna_1agraderia.jpg",
+      "data": {
+        "access": 5,
+        "porta": 4,
+        "boca": 101,
+        "fila": 10,
+        "seient": 2
+      }
+    },
+    {
+      "id": 6,
+      "name": "Tribuna Primera Graderia F10 S3",
+      "description": "Seient 3 a la fila 10 de la Primera Graderia de Tribuna",
+      "image": "tribuna_1agraderia.jpg",
+      "data": {
+        "access": 5,
+        "porta": 4,
+        "boca": 101,
+        "fila": 10,
+        "seient": 3
+      }
+    },
+    {
+      "id": 7,
+      "name": "Tribuna Primera Graderia F10 S1",
+      "description": "Seient 4 a la fila 10 de la Primera Graderia de Tribuna",
+      "image": "tribuna_1agraderia.jpg",
+      "data": {
+        "access": 5,
+        "porta": 4,
+        "boca": 101,
+        "fila": 10,
+        "seient": 4
+      }
+    }
+  ]
+}
